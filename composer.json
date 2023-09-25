@@ -1,0 +1,16 @@
+{
+    "name": "theothernic/bluesky",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Theothernic\\Bluesky\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nic Barr",
+            "email": "code@nicholasbarr.net"
+        }
+    ],
+    "require": {}
+}
