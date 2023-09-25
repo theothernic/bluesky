@@ -12,5 +12,12 @@
             "email": "code@nicholasbarr.net"
         }
     ],
-    "require": {}
+    "repositories": [
+        {"type": "git", "url": "git@github.com:theothernic/posse-spec.git"}
+    ],
+    "require": {
+        "php": "^8.1",
+        "guzzlehttp/guzzle": "^7.8",
+        "theothernic/posse-spec": "dev-main"
+    }
 }
